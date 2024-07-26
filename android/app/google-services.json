@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "970345907981",
+    "project_id": "tezda-task-2e3bf",
+    "storage_bucket": "tezda-task-2e3bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:970345907981:android:c8500193f91d27edbc1244",
+        "android_client_info": {
+          "package_name": "com.example.tezda_smit_task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQNQYhfcit6FFAmkcylXAVcfuLR0UWDn4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
